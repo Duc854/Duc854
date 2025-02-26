@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Nguyen Minh Duc 👋  
 
-<!--
-**Duc854/Duc854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
+- 🎓 Student at FPT University, majoring in Software Engineering  
+- 💼 Currently building **FUMiniHotelSystem** (WPF, EF Core), **Falgo** (Reactjs, EF Core,ASP.NET Web API) 
+- 📚 Learning **.NET 8.0, Reactjs**  
+- 🎯 Goal: Becoming a Full-Stack .NET Developer 🚀  
 
-Here are some ideas to get you started:
+🚀 **.NET Backend Developer** | C# | ASP.NET Core | Entity Framework Core | SQL  
+💡 Passionate about clean code & scalable architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Connect with me:**  
+📧 Email: nmduc854.work@gmail.com
